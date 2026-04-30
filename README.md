@@ -67,7 +67,7 @@ The dataset includes realistic personal financial transactions with the followin
 
 📈 Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard.jpg)
 
 > The dashboard provides a visual summary of income, expenses, savings, and category-wise spending patterns using charts, KPI cards, and filters.
 
